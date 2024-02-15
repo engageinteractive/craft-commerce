@@ -1,5 +1,9 @@
 # Release Notes for Craft Commerce
 
+## 3.4.23 - 2024-02-15
+
+- Removes rounding from price and salePrice attributes.
+
 ## 3.4.23 - 2023-10-18
 
 - `craft\commerce\services\Purchasables::EVENT_PURCHASABLE_SHIPPABLE` event handlers can now access the order. ([#3279](https://github.com/craftcms/commerce/pull/3279))
